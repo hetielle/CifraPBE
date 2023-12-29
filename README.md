@@ -2,11 +2,11 @@
 
 Projeto básico desenvolvido para a matéria Segurança da Informação em 2022 sobre criptografia de senhas com PBE
 
-## Funcionalidades:
+## 📋 Funcionalidades:
 
 - Criptografar senha com PKCS
 
-## Tecnologias utilizadas:
+## 🛠️ Tecnologias utilizadas:
 
 * Java
 * PKCS
